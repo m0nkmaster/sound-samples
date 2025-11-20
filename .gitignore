@@ -1,0 +1,44 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio software temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.#*
+
+# DAW project files (keep samples, ignore projects)
+*.als
+*.ptx
+*.logic
+*.flp
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any scripts use npm)
+node_modules/
+
+# Python cache (if any Python scripts)
+__pycache__/
+*.pyc
+*.pyo
