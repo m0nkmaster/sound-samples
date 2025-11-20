@@ -1,0 +1,1 @@
+vst param #	name	min	max	display	unit	default0	-	0	1	?	-	0
